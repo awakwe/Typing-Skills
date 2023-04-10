@@ -34,7 +34,7 @@ This typing study guide is designed to help individuals improve their typing ski
 
 > 📢 **Coming Soon!** We're currently working on providing detailed information for various typing topics. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to reach out for help!
 
-Importance of Touch Typing <a name="importance"></a>
+# Importance of Touch Typing <a name="importance"></a>
 
 
 Touch typing is the ability to type without looking at the keyboard. It helps increase typing speed, accuracy, and overall productivity.
