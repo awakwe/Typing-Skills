@@ -11,9 +11,8 @@ comment:  This document is a simple LiaScript course example.
 
 -->
 
+#Typing Study Guide
 
-Typing Study Guide
-==================
 
 Table of Contents
 -----------------
