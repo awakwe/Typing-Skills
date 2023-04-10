@@ -141,4 +141,4 @@ Developing proficient typing skills can have a significant impact on daily life,
 
 [preview-lia](https://raw.githubusercontent.com/awakwe/Typing-Skills/main/README.md)
 
-[Preview-Lia](https://liascript.github.io/course/?https://raw.githubusercontent.com/awakweTyping-Skills/main/README.md)
+[Preview-Lia](https://liascript.github.io/course/?https://raw.githubusercontent.com/awakwe/Typing-Skills/main/README.md)
