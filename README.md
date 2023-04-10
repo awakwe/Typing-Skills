@@ -76,6 +76,8 @@ Utilizing software and online resources can help improve typing skills through p
 *   **Online typing tutors and games**: Typing.com, 10FastFingers, TypingClub, and more.
 *   **Assessing your typing skills**: Online typing tests and setting goals for improvement.
 
+*   **We will be using this site for practice**: https://www.ratatype.com/classes/60449/
+
 > 📢 **Coming Soon!** We're currently working on providing detailed information for various typing topics. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to reach out for help!
 
 # Improving Typing Speed <a name="speed"></a>
