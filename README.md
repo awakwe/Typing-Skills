@@ -14,7 +14,7 @@ comment:  This document is a simple LiaScript course example.
 # Typing Study Guide
 
 
-## Table of Contents
+Table of Contents
 
 
 1.  [Introduction](#introduction)
@@ -24,9 +24,8 @@ comment:  This document is a simple LiaScript course example.
 5.  [Typing Software and Online Resources](#resources)
 6.  [Improving Typing Speed](#speed)
 7.  [Ergonomics and Typing Comfort](#ergonomics)
-8.  [Typing for Different Languages](#languages)
-9.  [Typing Shortcuts and Tricks](#shortcuts)
-10.  [Conclusion](#conclusion)
+8.  [Typing Shortcuts and Tricks](#shortcuts)
+9.  [Conclusion](#conclusion)
 
 # Introduction <a name="introduction"></a>
 
@@ -105,17 +104,6 @@ Proper ergonomics play a vital role in typing comfort and injury prevention.
 
 > 📢 **Coming Soon!** We're currently working on providing detailed information for various typing topics. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to reach out for help!
 
-# Typing for Different Languages <a name="languages"></a>
-
-
-Adapting typing skills for various languages and keyboard layouts.
-
-*   **Multilingual keyboard layouts**: Exploring different layouts for various languages.
-*   **Switching between keyboard layouts**: Tips for managing multiple layouts.
-*   **Typing accented characters and special symbols**: Inputting language-specific characters and symbols.
-*   **Adapting touch typing techniques for different languages**: Modifying your approach to suit different languages.
-
-> 📢 **Coming Soon!** We're currently working on providing detailed information for various typing topics. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to reach out for help!
 
 # Typing Shortcuts and Tricks <a name="shortcuts"></a>
 
